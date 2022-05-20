@@ -10,7 +10,7 @@ body
 
 #container
 {
-	wigth: 70%;
+	width: 70%;
 	padding: 1em;
 	text-align: left;
 	border: 1px solid color black;
@@ -19,5 +19,5 @@ body
 
 #container h1
 {
-	font- size: 20px;
+	font-size: 20px;
 }
