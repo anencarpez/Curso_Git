@@ -1,6 +1,6 @@
 body
 {
-	color: black;
+	color: #333;
 	text-align: center;
 	font-family: "Arial";
 	font-size: 16px;
@@ -18,16 +18,16 @@ body
 
 #container
 {
-	wigth: 70%;
+	width: 70%;
 	padding: 1em;
 	text-align: left;
-	border: 1px solid color black;
+	border: 1px solid black;
 	margin: 0 auto;
 }
 
 #container h1
 {
-	font- size: 20px;
+	font-size: 20px;
 }
 
 #post
