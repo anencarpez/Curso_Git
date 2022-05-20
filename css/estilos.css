@@ -10,11 +10,20 @@ body
 
 #cabecera
 {
-	background: #666666;
+	background: black;
+	box-shadw: 0px 5px 10px 0px rgba(0,0,0,0.5);
 	color: white;
 	margin: 0;
 	padding: 0.5em;
 }
+
+#cabevera #tagline
+{
+	margin: 0 0 0 0;
+	font-weight: normal;
+	font-size: 0.8em;	
+}
+
 
 #container
 {
