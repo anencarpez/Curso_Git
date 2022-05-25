@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
 	color: black ;
+=======
+	color: black;
+>>>>>>> a3befbf3bb0357bd724b35d91787fbda696c690e
 	text-align: center;
 	font-family: "Arial";
 	font-size: 16px;
@@ -45,5 +49,13 @@ body
 
 }
 
-
+#footer
+{
+        background: #33A;
+        box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+        color: white;
+        font-weight: bold;
+        margin: 0;
+        padding: 10px;
+}
 
